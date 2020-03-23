@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Starting Area","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Starting Area","order":1,"parentId":0,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
 {"id":2,"expanded":false,"name":"Old Man's House","order":2,"parentId":1,"scrollX":1622,"scrollY":906},
 {"id":3,"expanded":true,"name":"First Town ","order":3,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":4,"expanded":false,"name":"Town's Tavern","order":4,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":false,"name":"Empty House","order":6,"parentId":3,"scrollX":973.1999999999999,"scrollY":614.4},
 {"id":7,"expanded":false,"name":"Intro","order":7,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":8,"expanded":false,"name":"Sample_Island","order":8,"parentId":0,"scrollX":1638,"scrollY":922},
-{"id":9,"expanded":false,"name":"Dungeon","order":9,"parentId":0,"scrollX":860,"scrollY":1492}
+{"id":9,"expanded":false,"name":"Dungeon","order":9,"parentId":0,"scrollX":1663.5,"scrollY":1069.5}
 ]
