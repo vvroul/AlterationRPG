@@ -8,6 +8,6 @@ null,
 {"id":6,"expanded":false,"name":"Empty House","order":6,"parentId":3,"scrollX":1216.5,"scrollY":679.5},
 {"id":7,"expanded":false,"name":"Intro","order":7,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":8,"expanded":false,"name":"Sample_Island","order":8,"parentId":0,"scrollX":1638,"scrollY":922},
-{"id":9,"expanded":false,"name":"Dungeon","order":9,"parentId":0,"scrollX":2069,"scrollY":1966},
+{"id":9,"expanded":false,"name":"Dungeon","order":9,"parentId":0,"scrollX":2045,"scrollY":953},
 {"id":10,"expanded":false,"name":"MiniBoss_dungeon","order":10,"parentId":0,"scrollX":819,"scrollY":461}
 ]
